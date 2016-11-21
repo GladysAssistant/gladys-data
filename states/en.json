@@ -21,7 +21,7 @@
 		"function": "isNight",
 		"params": [
 			{
-				"name": "Maison",
+				"name": "House",
 				"variablename": "house",
 				"path": "/house"
 			}
