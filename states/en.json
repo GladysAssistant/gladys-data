@@ -12,5 +12,19 @@
 				"path": "/house"
 			}
 		]
+	},
+	{
+		"uuid": "88aa9c2d-efe8-4c84-9287-1e9129fb1f72",
+		"name": "Night",
+		"description": "If it's night at the given house",
+		"service": "sun",
+		"function": "isNight",
+		"params": [
+			{
+				"name": "Maison",
+				"variablename": "house",
+				"path": "/house"
+			}
+		]
 	}
 ]
