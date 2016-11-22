@@ -16,9 +16,23 @@
 	{
 		"uuid": "88aa9c2d-efe8-4c84-9287-1e9129fb1f72",
 		"name": "Nuit",
-		"description": "Si le soleil est couché",
+		"description": "S'il fait nuit",
 		"service": "sun",
-		"function": "isNight",
+		"function": "isItNight",
+		"params": [
+			{
+				"name": "Maison",
+				"variablename": "house",
+				"path": "/house"
+			}
+		]
+	},
+	{
+		"uuid": "5927e191-c874-405b-9bd9-9e7551f696c5",
+		"name": "Jour",
+		"description": "S'il fait jour",
+		"service": "sun",
+		"function": "isItDay",
 		"params": [
 			{
 				"name": "Maison",
