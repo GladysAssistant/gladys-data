@@ -18,7 +18,21 @@
 		"name": "Night",
 		"description": "If it's night at the given house",
 		"service": "sun",
-		"function": "isNight",
+		"function": "isItNight",
+		"params": [
+			{
+				"name": "House",
+				"variablename": "house",
+				"path": "/house"
+			}
+		]
+	},
+	{
+		"uuid": "5927e191-c874-405b-9bd9-9e7551f696c5",
+		"name": "Day",
+		"description": "If it's day at the given house",
+		"service": "sun",
+		"function": "isItDay",
 		"params": [
 			{
 				"name": "House",
