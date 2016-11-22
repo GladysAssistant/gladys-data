@@ -16,7 +16,7 @@
 	{
 		"uuid": "88aa9c2d-efe8-4c84-9287-1e9129fb1f72",
 		"name": "Nuit",
-		"description": "S'il fait nuit",
+		"description": "S'il fait nuit à une maison donnée",
 		"service": "sun",
 		"function": "isItNight",
 		"params": [
@@ -30,7 +30,7 @@
 	{
 		"uuid": "5927e191-c874-405b-9bd9-9e7551f696c5",
 		"name": "Jour",
-		"description": "S'il fait jour",
+		"description": "S'il fait jour à une maison donnée",
 		"service": "sun",
 		"function": "isItDay",
 		"params": [
