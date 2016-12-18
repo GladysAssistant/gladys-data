@@ -1,13 +1,27 @@
 [
 	{
 		"uuid": "3646ae97-9a4e-40fd-ba9e-b6089db6566f",
-		"name": "Empty house",
-		"description": "If the given house is empty",
+		"name": "Empty house before event",
+		"description": "If the given house is empty before the event happend",
 		"service": "house",
-		"function": "isEmpty",
+		"function": "isEmptyBefore",
 		"params": [
 			{
 				"name": "House",
+				"variablename": "house",
+				"path": "/house"
+			}
+		]
+	},
+	{
+		"uuid": "54d10c70-c50a-11e6-9676-e90a06e6890a",
+		"name": "Empty house after event",
+		"description": "If the given house is empty after the event happend",
+		"service": "house",
+		"function": "isEmptyAfter",
+		"params": [
+			{
+				"name": "Maison",
 				"variablename": "house",
 				"path": "/house"
 			}
