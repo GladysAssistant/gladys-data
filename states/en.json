@@ -12,5 +12,33 @@
 				"path": "/house"
 			}
 		]
+	},
+	{
+		"uuid": "88aa9c2d-efe8-4c84-9287-1e9129fb1f72",
+		"name": "Night",
+		"description": "If it's night at the given house",
+		"service": "sun",
+		"function": "isItNight",
+		"params": [
+			{
+				"name": "House",
+				"variablename": "house",
+				"path": "/house"
+			}
+		]
+	},
+	{
+		"uuid": "5927e191-c874-405b-9bd9-9e7551f696c5",
+		"name": "Day",
+		"description": "If it's day at the given house",
+		"service": "sun",
+		"function": "isItDay",
+		"params": [
+			{
+				"name": "House",
+				"variablename": "house",
+				"path": "/house"
+			}
+		]
 	}
 ]
