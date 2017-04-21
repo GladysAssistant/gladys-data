@@ -1,10 +1,52 @@
 [
 	{
 		"uuid": "3646ae97-9a4e-40fd-ba9e-b6089db6566f",
-		"name": "Empty house",
-		"description": "If the given house is empty",
+		"name": "Empty house before event",
+		"description": "If the given house is empty before the event happend",
 		"service": "house",
-		"function": "isEmpty",
+		"function": "isEmptyBefore",
+		"params": [
+			{
+				"name": "House",
+				"variablename": "house",
+				"path": "/house"
+			}
+		]
+	},
+	{
+		"uuid": "54d10c70-c50a-11e6-9676-e90a06e6890a",
+		"name": "Empty house after event",
+		"description": "If the given house is empty after the event happend",
+		"service": "house",
+		"function": "isEmptyAfter",
+		"params": [
+			{
+				"name": "Maison",
+				"variablename": "house",
+				"path": "/house"
+			}
+		]
+	},
+	{
+		"uuid": "88aa9c2d-efe8-4c84-9287-1e9129fb1f72",
+		"name": "Night",
+		"description": "If it's night at the given house",
+		"service": "sun",
+		"function": "isItNight",
+		"params": [
+			{
+				"name": "House",
+				"variablename": "house",
+				"path": "/house"
+			}
+		]
+	},
+	{
+		"uuid": "5927e191-c874-405b-9bd9-9e7551f696c5",
+		"name": "Day",
+		"description": "If it's day at the given house",
+		"service": "sun",
+		"function": "isItDay",
 		"params": [
 			{
 				"name": "House",
