@@ -1,10 +1,24 @@
-[
+﻿[
 	{
 		"uuid": "3646ae97-9a4e-40fd-ba9e-b6089db6566f",
 		"name": "Maison vide",
 		"description": "Si une maison donnée est vide",
 		"service": "house",
 		"function": "isEmpty",
+		"params": [
+			{
+				"name": "Maison",
+				"variablename": "house",
+				"path": "/house"
+			}
+		]
+	},
+	{
+		"uuid": "52bba230-c732-4d73-8b51-5a9ffd68f143",
+		"name": "Maison non vide",
+		"description": "Si une maison donnée n'est pas vide",
+		"service": "house",
+		"function": "isNotEmpty",
 		"params": [
 			{
 				"name": "Maison",
