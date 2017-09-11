@@ -5,11 +5,11 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "dde0fd22-ba8b-4972-8634-eda59a7a08d5",
+                "uuid": "f1209f6f-86e4-4091-9d98-d30600257db6",
                 "text": "Was ist mein nächster Termin heute?"
             },
             {
-                "uuid": "2667c23b-3e05-4869-a180-b16659d036a5",
+                "uuid": "74069a74-54b1-4b07-b168-85d32f671ce1",
                 "text": "Was steht als nächstes in meinem Kalender?"
             }
         ]
@@ -20,15 +20,15 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "5db27447-fb76-4dd8-93ef-f092b4dea1ad",
+                "uuid": "c0102603-19ad-4277-9319-07b170e331df",
                 "text": "Wie ist das Wetter?"
             },
             {
-                "uuid": "30c95d9c-f678-46f9-acb7-d5115b17f7bb",
+                "uuid": "8511dd23-96b6-46d9-ba02-4c2f1e24286e",
                 "text": "Wie ist das Wetter  heute?"
             },
             {
-                "uuid": "fa6970cf-ed4c-44ce-b620-9476c434e3a3",
+                "uuid": "ca96a33d-823b-4c9c-9410-a1b2144a666a",
                 "text": "Was soll ich heute anziehen?"
             }
         ]
@@ -39,23 +39,23 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "6266e180-84b2-488b-92d8-b0751e1b7afc",
+                "uuid": "9344cd17-7b41-4b01-a430-64faf2cceb3d",
                 "text": "Musik abspielen"
             },
             {
-                "uuid": "9e6c1ad4-26e1-4b77-943b-df33e187f0da",
+                "uuid": "1a892e0a-aa42-48cf-b229-a5e14385a30b",
                 "text": "Schmeiß die Musik an"
             },
             {
-                "uuid": "0bcebc3c-81ca-4a92-abfb-698479dea85e",
+                "uuid": "6e19b4be-0162-4fff-86c3-821170a620fe",
                 "text": "Ich möchte etwas Musik hören"
             },
             {
-                "uuid": "04793040-10e0-43b9-9030-ee08f25f83e7",
+                "uuid": "8b58f0b7-bc61-4300-930b-16a929cbdaaf",
                 "text": "Musik einschalten"
             },
             {
-                "uuid": "bc54533d-2919-41e8-a2c2-334477d22936",
+                "uuid": "2ba15857-9d5c-4903-8377-a8573d52a7a8",
                 "text": "Ich will Musik hören"
             }
         ]
@@ -66,11 +66,11 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "09135a5e-ec66-4188-83ca-b26825fefcf2",
+                "uuid": "fa5d2684-35f7-4160-81b8-718ff6f9c3d3",
                 "text": "Musik pausieren"
             },
             {
-                "uuid": "067990c4-6a04-4cfb-bb69-16c38282b18a",
+                "uuid": "491bb39e-114d-46a8-8d17-adacbf28b81f",
                 "text": "Pausiere die Musik"
             }
         ]
@@ -81,11 +81,11 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "c276aa98-05ef-435a-a2b2-8249ef944639",
+                "uuid": "4c1b2ab9-d04e-4658-85ec-a85e1efdd596",
                 "text": "Musik stoppen"
             },
             {
-                "uuid": "e234931a-d84e-49c5-831f-037001cc849d",
+                "uuid": "e5ab80ab-29d4-4f45-bc2f-16b66a635a12",
                 "text": "Schalte die Musik aus"
             }
         ]
@@ -96,15 +96,15 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "ba871389-431d-4521-99cb-3d42f98b22e7",
+                "uuid": "7f92420c-9716-40ef-9f6e-f8b0c65f74f3",
                 "text": "Dreh die Lautstärke hoch"
             },
             {
-                "uuid": "975a7151-d0e9-4163-89d7-7e1e8634a45e",
+                "uuid": "7fdeae91-8108-407e-ab8d-718f49a6c263",
                 "text": "Dreh die Musik auf"
             },
             {
-                "uuid": "bd4eef13-f79b-4822-84e4-9c51264473a2",
+                "uuid": "8c2a527b-127f-4bb8-9263-c8f327b3dfb4",
                 "text": "Lautstärke hoch"
             }
         ]
@@ -115,15 +115,15 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "0397ceaf-fb03-4912-b27e-dcb93067a456",
+                "uuid": "e4eecda1-bf3f-469e-827d-9a1467da31f0",
                 "text": "Dreh die Lautstärke runter"
             },
             {
-                "uuid": "2a85f044-c854-4856-a2bf-019f1042d030",
+                "uuid": "c60e24a1-80c3-4fb7-ad46-0568bdedb737",
                 "text": "Dreh die Musik runter"
             },
             {
-                "uuid": "4f10ae2c-7fb8-48e9-8715-5691b9f39aa1",
+                "uuid": "6203cb06-3ff7-41b2-8ced-5894325a9543",
                 "text": "Lautstärke runter"
             }
         ]
@@ -134,15 +134,15 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "03f9005c-2502-4d8a-af8a-bd7ecc9b3897",
+                "uuid": "0f5fff2e-68e9-4a73-afdf-532f26e40776",
                 "text": "Nächster Titel"
             },
             {
-                "uuid": "b2a2ecf5-fcee-41fa-8e24-a6452ad765b1",
+                "uuid": "d6403dbe-4250-41c0-b1db-e8bb0480ad2d",
                 "text": "Änder den Titel"
             },
             {
-                "uuid": "4278b72f-3612-41d9-8eea-0ee8daf15307",
+                "uuid": "897220d8-109a-4a05-9d9c-619c572b3622",
                 "text": "Nächstes Lied"
             }
         ]
@@ -153,15 +153,15 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "56056e7c-1c09-41a8-a9bb-ffea35900c48",
+                "uuid": "499312dc-1ca0-4beb-8d84-fe234682a44b",
                 "text": "Vorheriger Titel"
             },
             {
-                "uuid": "f56f9d7a-2bb9-4319-93c4-5a6108fff602",
+                "uuid": "7bc4fa2d-fc47-42bb-8177-08b788de4e1a",
                 "text": "Das letzte Lied war super!"
             },
             {
-                "uuid": "3eb47f06-406c-4f29-9b23-1a67fc4097e8",
+                "uuid": "aa62d770-88a2-4e58-a1dd-06fe207ac265",
                 "text": "Mach das letzte Lied wieder an"
             }
         ]
@@ -172,15 +172,15 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "92c8d288-5a79-4b22-ba11-44fe575995b8",
+                "uuid": "4205ddbf-4d08-4e92-94cc-6a9478576407",
                 "text": "Wie heißt dieses Lied?"
             },
             {
-                "uuid": "9b743d0f-6c6b-4d62-9356-6a38a4b1463f",
+                "uuid": "71f60e0f-e855-43b6-a249-20f11cb05b38",
                 "text": "Was ist das für ein Lied?"
             },
             {
-                "uuid": "caa6a388-9737-4845-a59e-d7af5ecfe9b0",
+                "uuid": "79ddc34a-3668-4537-b8dd-4ccbaa1ded85",
                 "text": "Aktueller Titel"
             }
         ]
@@ -191,11 +191,11 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "5cdf102c-8462-4931-b82f-c2f0178cd3a3",
+                "uuid": "198b7972-098a-4223-8948-5b66be885936",
                 "text": "Licht im %ROOM% einschalten"
             },
             {
-                "uuid": "15a9c292-eb8c-4514-a356-5f9b799ff242",
+                "uuid": "b8d24bfc-c367-4f72-ad73-e853ee30d4c8",
                 "text": "Schalte %DEVICE_TYPE% an"
             }
         ]
@@ -206,11 +206,11 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "29ffbf6b-dbd0-4236-8857-3cf3841f6923",
+                "uuid": "43c2ad24-e476-400b-b57f-d88227ca40ef",
                 "text": "Licht im %ROOM% ausschalten"
             },
             {
-                "uuid": "8dd4d1b1-4b7c-46a5-af65-f25ed64808b8",
+                "uuid": "de0df337-889a-495b-b3e2-2bb7f64f2165",
                 "text": "Schalte %DEVICE_TYPE% aus"
             }
         ]
@@ -221,11 +221,11 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "92b1d92f-d5ff-4b9a-a17e-4b7e690c4df5",
+                "uuid": "6bb66ede-fbf8-4cfb-b5c5-42b56950b379",
                 "text": "Ich bin wieder zuhause!"
             },
             {
-                "uuid": "9afb36e0-14ef-45d3-9f82-4d7aa7e90492",
+                "uuid": "81b2cb95-2437-4163-9417-e153c55dbe56",
                 "text": "Ich bin zurück!"
             }
         ]
@@ -236,11 +236,11 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "5541c2e0-fc70-464f-b6d0-d13d045e3586",
+                "uuid": "d2345fff-aecf-49d2-ac22-5f8108b283e2",
                 "text": "Ich verlasse das Zuhause"
             },
             {
-                "uuid": "9b8653a4-f171-40c4-810c-2575c9328cdd",
+                "uuid": "a349d3c3-5a68-4944-bd89-c698d654f351",
                 "text": "Ich gehe"
             }
         ]
@@ -251,11 +251,11 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "a6fce9cd-4fd5-4f00-96e1-8dd4a256f802",
+                "uuid": "4ffd14ba-e375-480b-a89a-fbf095af2f3e",
                 "text": "Ich wache auf"
             },
             {
-                "uuid": "f8ddda69-c960-44df-8427-5806f356e4ab",
+                "uuid": "02d6759c-cf3c-45f3-add6-43573860308f",
                 "text": "Ich bin wach"
             }
         ]
@@ -266,11 +266,11 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "34e0e91f-0f1b-42f1-bdfc-b33e6b214bef",
+                "uuid": "5b670b73-9c63-40bd-be80-2350f76217a5",
                 "text": "Ich gehe schlafen"
             },
             {
-                "uuid": "47a2c321-d6e8-4d49-94ba-7d03806cb706",
+                "uuid": "8805b839-38b3-4d48-87b7-81d74d204f45",
                 "text": "Gute Nacht!"
             }
         ]
@@ -281,11 +281,11 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "843559a8-15c3-4756-8eb1-42b95d8dbffe",
+                "uuid": "05e80645-13d9-4e78-9d07-6931c64212e6",
                 "text": "Danke"
             },
             {
-                "uuid": "163692fd-a819-491c-a1db-875637f45bd0",
+                "uuid": "9d082f72-c6c8-4f94-89a1-cab82cc35fa8",
                 "text": "Vielen DanK!"
             }
         ]
@@ -296,15 +296,15 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "36a2fca0-a08f-4f15-a764-d82357b13ade",
+                "uuid": "9d082f72-c6c8-4f94-89a1-cab82cc35fa8",
                 "text": "Hi !"
             },
             {
-                "uuid": "bcdfdc85-5583-4930-9a8d-7c84529d5722",
+                "uuid": "5bb85882-42c3-4729-a796-a6fd955b2622",
                 "text": "Hallo !"
             },
             {
-                "uuid": "2edb4441-dcd1-46e3-b3a5-b6721f2d755a",
+                "uuid": "1d8ecc12-0e04-431f-ab55-be8453c1203c",
                 "text": "Hey !"
             }
         ]
@@ -315,11 +315,11 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "72c3ca07-3ef0-4cb6-9dcb-8c748c9463d0",
+                "uuid": "51ded8fa-8d21-43fd-aa26-191b54c25aa2",
                 "text": "Was geht ab?"
             },
             {
-                "uuid": "7f7a52d3-5f6e-493a-b94f-d6e6fcf73030",
+                "uuid": "2c5d34dd-5d2e-4c0a-9188-bdfb7f0f4271",
                 "text": "Wie geht es dir?"
             }
         ]
@@ -330,14 +330,13 @@
         "language": "en",
         "sentences": [
             {
-                "uuid": "decbca5c-4568-4522-9ef3-dc024aee1ec4",
+                "uuid": "d0e48d1e-b07b-4b0b-a0e8-9a8ec0719288",
                 "text": "Wecke mich um %TIME% Uhr"
             },
             {
-                "uuid": "99d143d9-dbf6-44bc-97a7-a541fc0b3377",
+                "uuid": "481a140a-3491-4b20-be96-d7edcc38aaed",
                 "text": "Stell den Alarm auf %TIME% Uhr"
             }
         ]
     }
 ]
- 
