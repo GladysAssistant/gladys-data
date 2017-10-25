@@ -54,5 +54,38 @@
 				"path": "/house"
 			}
 		]
+	},
+		{
+		"uuid": "e2c81c7a-45f0-44d1-aab5-02915335d2ff",
+		"name": "Mode of the house",
+		"description": "If the house is in a mode.",
+		"service": "mode",
+		"function": "getByHouse",
+		"params": [
+			{
+				"name": "Mode",
+				"variablename": "mode",
+				"path": "/mode"
+			}
+		]
+	},
+		{
+		"uuid": "e4b2a301-9d54-49e3-9012-2121ea4d9ab7",
+		"name": "User present",
+		"description": "If a user is present in a given house.",
+		"service": "house",
+		"function": "isUserAtHome",
+		"params": [
+			{
+				"name": "House",
+				"variablename": "house",
+				"path": "/house"
+			},
+		        {
+         			"name": "User",
+         			"variablename": "user",
+         			"path": "/user"
+			}
+		]
 	}
 ]

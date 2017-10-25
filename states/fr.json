@@ -54,5 +54,38 @@
 				"path": "/house"
 			}
 		]
+	},
+		{
+		"uuid": "e67ade17-8a41-46cd-b60d-9ada5181d6c3",
+		"name": "Mode de la Maison",
+		"description": "Si la maison est dans un mode.",
+		"service": "mode",
+		"function": "getByHouse",
+		"params": [
+			{
+				"name": "Mode",
+				"variablename": "mode",
+				"path": "/mode"
+			}
+		]
+	},
+		{
+		"uuid": "89392936-a41e-40cc-b5f9-9211f241a4b9",
+		"name": "Utilisateur présent",
+		"description": "Si un utilisateur est présent dans une maison donnée.",
+		"service": "house",
+		"function": "isUserAtHome",
+		"params": [
+			{
+				"name": "Maison",
+				"variablename": "house",
+				"path": "/house"
+			},
+		        {
+         			"name": "Utilisateur",
+         			"variablename": "user",
+         			"path": "/user"
+			}
+		]
 	}
 ]
