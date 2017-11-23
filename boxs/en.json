@@ -45,5 +45,14 @@
     "html": "<div class=\"slimScrollDiv\" style=\"position: relative; overflow: hidden; width: auto; height: 250px;\"><div class=\"box-body chat\" id=\"chat-box\" style=\"overflow: scroll; width: auto; height: 250px;\"> <!-- chat item --> <div class=\"item ng-cloak\" ng-repeat=\"message in vm.messages\"> <p class=\"message\"> <a href=\"#\" class=\"name\"> <small class=\"text-muted pull-right\"><i class=\"fa fa-clock-o\"></i> <span am-time-ago=\"message.datetime\"></small> {{message.senderName}} </a> {{message.text}} </p> </div> <!-- /.item --> <span class=\"typing-indicator ng-cloak\" ng-show=\"vm.typing\" ng-model=\"vm.typingText\"> {{ 'CHAT.TYPING' | translate }}... </span> </div><div class=\"slimScrollBar\" style=\"background: rgb(0, 0, 0); width: 7px; position: absolute; top: 0px; opacity: 0.4; display: none; border-radius: 7px; z-index: 99; right: 1px; height: 184.911px;\"></div><div class=\"slimScrollRail\" style=\"width: 7px; height: 100%; position: absolute; top: 0px; display: none; border-radius: 7px; background: rgb(51, 51, 51); opacity: 0.2; z-index: 90; right: 1px;\"></div></div>",
     "footer": "<div class=\"input-group ng-cloak\"> <input class=\"form-control\" ng-keydown=\"$event.keyCode == 13 ? vm.send(vm.newMessageText) : null\" placeholder=\"{{ 'CHAT.TEXT_BOX_PLACEHOLDER' | translate }}...\" ng-model=\"vm.newMessageText\"> <div class=\"input-group-btn\"> <button type=\"button\" class=\"btn btn-success\" ng-click=\"vm.send(vm.newMessageText);\"><i class=\"fa fa-send\"></i></button> </div> </div>",
     "view": "dashboard"
+  },
+  {
+    "uuid": "8a91b073-b0b3-43dc-a76d-80bee3d0036f",
+    "title": "Create Mode",
+    "ngcontroller": "ModeBoxCtrl as vm",
+    "icon": "fa fa-dot-circle-o",
+    "type": "box box-success",
+    "html": "<div class=\"row ng-cloak\"> <div class=\"col-md-6\"> <select ng-model=\"vm.newMode.mode\" class=\"form-control\" > <option value=\"\" disabled selected hidden>Select the mode</option> <option ng-repeat=\"mode in vm.modes\" value=\"{{mode.code}}\">{{mode.name}}</option> </select> </div> <div class=\"col-md-6\"> <select ng-model=\"vm.newMode.house\" class=\"form-control\" > <option value=\"\" disabled selected hidden>Select the house</option> <option ng-repeat=\"house in vm.houses\" value=\"{{house.id}}\">{{house.name}}</option> </select> </div> </div> <div class=\"row\" style=\"margin-top:20px;\"> <div class=\"col-md-12\"> <button class=\"btn btn-block btn-success\" ng-click=\"vm.changeMode(vm.newMode);\">Create</button> </div> </div>",
+    "view": "dashboard"
   }
 ]
