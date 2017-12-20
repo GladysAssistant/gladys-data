@@ -41,7 +41,7 @@
 			}
 		]
 	},
-		{
+	{
 		"uuid": "5927e191-c874-405b-9bd9-9e7551f696c5",
 		"name": "Jour",
 		"description": "S'il fait jour à une maison donnée",
@@ -55,12 +55,31 @@
 			}
 		]
 	},
-		{
+	{
 		"uuid": "89392936-a41e-40cc-b5f9-9211f241a4b9",
 		"name": "Utilisateur présent",
 		"description": "Si un utilisateur est présent dans une maison donnée.",
 		"service": "house",
 		"function": "isUserAtHome",
+		"params": [
+			{
+				"name": "Maison",
+				"variablename": "house",
+				"path": "/house"
+			},
+		        {
+         			"name": "Utilisateur",
+         			"variablename": "user",
+         			"path": "/user"
+			}
+		]
+	},
+	{
+		"uuid": "c03c9fcf-2609-49c1-a134-db2905024ace",
+		"name": "Utilisateur couché",
+		"description": "Si un utilisateur est couché dans une maison donnée.",
+		"service": "house",
+		"function": "isUserAsleep",
 		"params": [
 			{
 				"name": "Maison",
