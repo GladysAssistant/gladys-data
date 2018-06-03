@@ -3,16 +3,16 @@
 		"uuid": "04340a8b-a177-4247-aca5-5d12bfda6ce0",
 		"service": "deviceType",
 		"function": "exec",
-		"name": "DeviceType exec",
+		"name": "Changer l'état d'un device",
 		"description": "Change l'état d'un device. (Allumage d'une lampe, etc... )",
 		"params": [
 			{
-				"name": "Device Type",
+				"name": "Device",
 				"variablename": "devicetype",
 				"path":  "/devicetype"
 			},
 			{
-				"name": "Value",
+				"name": "Valeur",
 				"variablename": "value"
 			}
 		]
@@ -21,7 +21,7 @@
 		"uuid": "5c311d0d-427b-4ae8-b470-2c693e58ab8e",
 		"service": "script",
 		"function": "exec",
-		"name": "Exécute un script",
+		"name": "Exécuter un script",
 		"description": "Exécute un script donné en paramètre",
 		"params": [
 			{
@@ -35,7 +35,7 @@
 		"uuid": "c038bfb3-5c01-496a-8513-07806aa84401",
 		"service": "event",
 		"function": "create",
-		"name": "Nouvel évènement",
+		"name": "Créer un nouvel évènement",
 		"description": "Créé un évènement, qui peut lui même déclencher un scénario.",
 		"params": [
 			{
@@ -65,31 +65,31 @@
 		"uuid": "103d5e06-47b7-4cd0-814f-e18bcfc77f02",
 		"service": "notification",
 		"function": "create",
-		"name": "Nouvelle notification",
-		"description": "Créé une notification Gladys.",
+		"name": "Envoyer une nouvelle notification",
+		"description": "Envoie une notification Gladys.",
 		"params": [
 			{
-				"name": "Title",
+				"name": "Titre",
 				"variablename": "title"
 			},
 			{
-				"name": "Text",
+				"name": "Texte",
 				"variablename": "text"
 			},
 			{
-				"name": "Priority",
+				"name": "Priorité",
 				"variablename": "priority"
 			},
 			{
-				"name": "Icon",
+				"name": "Icône",
 				"variablename": "icon"
 			},
 			{
-				"name": "IconColor",
+				"name": "Couleur de l'icône",
 				"variablename": "iconColor"
 			},
 			{
-				"name": "User",
+				"name": "Utilisateur",
 				"variablename": "user",
 				"path" : "/user"
 			}
@@ -100,7 +100,7 @@
 		"uuid": "8bc231a2-b0f2-4702-bee1-0858851abe73",
 		"service": "utils",
 		"function": "request",
-		"name": "Lance une requête HTTP",
+		"name": "Lancer une requête HTTP",
 		"description": "Envoie une requête HTTP avec les paramètres donnés.",
 		"params": [
 			{
@@ -125,7 +125,7 @@
 		"uuid": "b873bd8f-a69b-4dc0-a279-44adfac80f1c",
 		"service": "calendar",
 		"function": "sync",
-		"name": "Synchronise les calendriers",
+		"name": "Synchroniser les calendriers",
 		"description": "Synchronise tous les calendriers connectés à Gladys.",
 		"params": []
 	}
