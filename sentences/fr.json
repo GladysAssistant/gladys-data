@@ -1209,5 +1209,103 @@
     "label": "play-music",
     "service": 0,
     "language": "fr"
+  },
+  {
+    "uuid": "fc2e4620-50d7-452c-a97c-21f44aa46498",
+    "text": "Mets la chaine xx",
+    "label": "television-set-channel",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "35737f29-607e-4211-bd18-4fbdff1b230e",
+    "text": "Allume la télévision",
+    "label": "television-switch-state",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "e4733c22-daf6-402f-8405-f32e6973e260",
+    "text": "Éteint la télévision",
+    "label": "television-switch-state",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "1000e044-608c-4dc8-861c-97693f770d49",
+    "text": "Mets la télévision sur pause",
+    "label": "television-pause",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "36b5479d-e4d0-4e3d-b2e2-32cff25eb53b",
+    "text": "Arrete la video",
+    "label": "television-stop",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "f64ab472-cd40-4d18-8a82-fe4aba6b6854",
+    "text": "Mets la télévision sur play",
+    "label": "television-play",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "aeb59b94-23d0-435b-ba20-860ac1f177bb",
+    "text": "Rembobine la video",
+    "label": "television-rewind",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "eeddddba-eee0-48fd-bbe5-e5b8cbd9b647",
+    "text": "Avance la video",
+    "label": "television-fast-forward",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "0b58b170-23cb-47a0-a6d4-5ab34372ccf9",
+    "text": "Met la chaine suivante",
+    "label": "television-program-plus",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "71a7be63-0e57-4407-be2e-15988213449f",
+    "text": "Met la chaine précédente",
+    "label": "television-program-minus",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "7d6ccc67-0b87-4816-8e84-c54fc9340b1b",
+    "text": "Augmente le son de la télévision",
+    "label": "television-volume-up",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "0d7e40d0-b4ce-11e8-96f8-529269fb1459",
+    "text": "Diminue le son de la télévision",
+    "label": "television-volume-down",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "d3d1093d-3da2-44e8-9ad0-82bb5b5f9abd",
+    "text": "Coupe le son de la télévision",
+    "label": "television-mute",
+    "service": "television",
+    "language": "fr"
+  },
+  {
+    "uuid": "d3d1093d-3da2-44e8-9ad0-82bb5b5f9abd",
+    "text": "Met le son de la télévision",
+    "label": "television-mute",
+    "service": "television",
+    "language": "fr"
   }
 ]

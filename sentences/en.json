@@ -1003,4 +1003,88 @@
 	"label": "play-music",
 	"service": 0,
 	"language": "en"
+}, {
+  "uuid": "0d7e2320-b4ce-11e8-96f8-529269fb1459",
+  "text": "Put channel xx",
+  "label": "television-set-channel",
+  "service": "television",
+  "language": "en"
+}, {
+  "uuid": "0d7e2690-b4ce-11e8-96f8-529269fb1459",
+  "text": "Switch tv on",
+  "label": "television-switch-state",
+  "service": "television",
+  "language": "en"
+}, {
+  "uuid": "0d7e28a2-b4ce-11e8-96f8-529269fb1459",
+  "text": "Switch tv off",
+  "label": "television-switch-state",
+  "service": "television",
+  "language": "en"
+}, {
+  "uuid": "0d7e2c94-b4ce-11e8-96f8-529269fb1459",
+  "text": "Put television on pause",
+  "label": "television-pause",
+  "service": "television",
+  "language": "en"
+}, {
+  "uuid": "0d7e2e7e-b4ce-11e8-96f8-529269fb1459",
+  "text": "Stop the video",
+  "label": "television-stop",
+  "service": "television",
+  "language": "en"
+}, {
+  "uuid": "0d7e3086-b4ce-11e8-96f8-529269fb1459",
+  "text": "Put television on play",
+  "label": "television-play",
+  "service": 0,
+  "language": "en"
+}, {
+  "uuid": "0d7e3360-b4ce-11e8-96f8-529269fb1459",
+  "text": "Rewind the video",
+  "label": "television-rewind",
+  "service": "television",
+  "language": "en"
+}, {
+  "uuid": "0d7e34be-b4ce-11e8-96f8-529269fb1459",
+  "text": "Forward the video",
+  "label": "television-fast-forward",
+  "service": "television",
+  "language": "en"
+}, {
+  "uuid": "0d7e35ea-b4ce-11e8-96f8-529269fb1459",
+  "text": "Next channel",
+  "label": "television-program-plus",
+  "service": "television",
+  "language": "en"
+}, {
+  "uuid": "0d7e3892-b4ce-11e8-96f8-529269fb1459",
+  "text": "Previous channel",
+  "label": "television-program-minus",
+  "service": "television",
+  "language": "en"
+}, {
+  "uuid": "0d7e3d06-b4ce-11e8-96f8-529269fb1459",
+  "text": "Turn up the volume on television",
+  "label": "television-volume-up",
+  "service": "television",
+  "language": "en"
+}, {
+	"uuid": "0d7e3d06-b4ce-11e8-96f8-529269fb1459",
+	"text": "Turn down the volume on television",
+	"label": "television-volume-down",
+	"service": 0,
+	"language": "en"
+}, {
+  "uuid": "0d7e3e5a-b4ce-11e8-96f8-529269fb1459",
+  "text": "Mute the television",
+  "label": "television-mute",
+  "service": "television",
+  "language": "en"
+}, {
+  "uuid": "0d7e3f9a-b4ce-11e8-96f8-529269fb1459",
+  "text": "Unmute the television",
+  "label": "television-mute",
+  "service": "television",
+  "language": "en"
 }]
