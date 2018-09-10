@@ -518,5 +518,125 @@
                 "text": "Music stopped sir !"
             }
         ]
+    },
+
+    {
+        "label": "tell-television-set-channel",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "55be3be2-2611-44a2-b54d-3d25ce9237bb",
+                "text": "The channel was changed !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-switch-state",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "55af847b-544c-4197-9da9-bc3712fe2663",
+                "text": "The tv state was changed !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-paused",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "82edebcb-6a6c-42a2-a016-449fe9650905",
+                "text": "The video is paused !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-played",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "99d94f81-86f9-4530-8ce7-e9c2e8cead61",
+                "text": "The video is started !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-stopped",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "d97834d5-75c5-4fbd-b630-cf0c756d6140",
+                "text": "The video is stopped !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-rewind",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "824b0310-0fb1-4f63-a4c3-9e9735e80718",
+                "text": "The video is rewinding !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-fast-forward",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "1ccae0a0-da3f-4d52-ab2a-42998dfcb4a7",
+                "text": "The video moves forward !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-change-chaine",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "f26973c9-d4c9-4e34-9285-11436232c658",
+                "text": "The tv channel has been changed !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-change-volume",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "7fecae22-f72a-4c3d-8007-849ecad03d66",
+                "text": "The volume of the TV has been changed !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-mute",
+        "needAnswer": false,
+        "language": "en",
+        "responses": [
+            {
+                "uuid": "47516586-b64a-4464-a223-33ae7bc4f17f",
+                "text": "The volume of the TV has been muted !"
+            }
+        ]
     }
 ]

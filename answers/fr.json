@@ -598,5 +598,125 @@
                 "text": "J'ai coupé la musique !"
             }
         ]
+    },
+
+    {
+        "label": "tell-television-set-channel",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "c04af245-5885-44fb-b616-e9796c0ff48e",
+                "text": "La chaine à été changé !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-switch-state",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "eece48c3-f237-40ad-a99d-442734f591d7",
+                "text": "L'état de la télé à été changé !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-paused",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "286b4279-f456-46b6-9b19-588f656b37aa",
+                "text": "La video est sur pause !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-played",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "4d60cf47-e477-4529-aebb-81a72fe9e61c",
+                "text": "La video est lancé !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-stopped",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "ee8984dc-d392-4a0d-9907-e4b4a6166505",
+                "text": "La video est stopé !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-rewind",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "1a771b1e-2fea-4406-8e6f-616fc850953f",
+                "text": "La video rembobine !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-fast-forward",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "6845cd1a-2ef0-4257-853a-ca72202da384",
+                "text": "La video accélère !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-change-chaine",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "76fe8274-d190-4d82-bc04-034aa7300f83",
+                "text": "La chaine de la télé à été changé !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-change-volume",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "ea886405-5929-4c1c-b9c8-82dcb1d91989",
+                "text": "Le volume de la télé à été modifié !"
+            }
+        ]
+    },
+
+    {
+        "label": "television-mute",
+        "needAnswer": false,
+        "language": "fr",
+        "responses": [
+            {
+                "uuid": "842c46fd-52d4-4232-b9be-e25c22d10dfd",
+                "text": "Le volume de la télé à coupé !"
+            }
+        ]
     }
 ]
