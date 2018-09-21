@@ -1282,28 +1282,28 @@
   },
   {
     "uuid": "7d6ccc67-0b87-4816-8e84-c54fc9340b1b",
-    "text": "Augmente le son de la télévision",
+    "text": "Augmente le volume de la télévision",
     "label": "television-volume-up",
     "service": "television",
     "language": "fr"
   },
   {
     "uuid": "0d7e40d0-b4ce-11e8-96f8-529269fb1459",
-    "text": "Diminue le son de la télévision",
+    "text": "Diminue le volume de la télévision",
     "label": "television-volume-down",
     "service": "television",
     "language": "fr"
   },
   {
     "uuid": "d3d1093d-3da2-44e8-9ad0-82bb5b5f9abd",
-    "text": "Coupe le son de la télévision",
+    "text": "Coupe le volume de la télévision",
     "label": "television-mute",
     "service": "television",
     "language": "fr"
   },
   {
     "uuid": "d3d1093d-3da2-44e8-9ad0-82bb5b5f9abd",
-    "text": "Met le son de la télévision",
+    "text": "Met le volume de la télévision",
     "label": "television-mute",
     "service": "television",
     "language": "fr"
