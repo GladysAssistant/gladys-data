@@ -258,5 +258,14 @@
          "path": "/user"
       }
     ]
+  },
+  {
+    "code": "gladys-launched",
+    "name": "Gladys launched!",
+    "descrition": "Gladys has launched!.",
+    "service": 0,
+    "category": 6,
+    "faIcon": "fa fa-rocket",
+    "iconColor": "bg-black"
   }
 ]
