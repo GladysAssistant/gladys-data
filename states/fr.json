@@ -99,5 +99,23 @@
         "path": "/user"
       }
     ]
+  },
+  {
+    "uuid": "1610d4fe-f6b6-4026-ba14-4e883dc5d2fc",
+    "name": "Plage horaire",
+    "description": "S'il est une heure donnée dans la maison principale.",
+    "service": "time",
+    "function": "isInTimeRange",
+    "params": [{
+        "name": "Début",
+        "variablename": "start",
+        "path": ""
+      },
+      {
+        "name": "Fin",
+        "variablename": "end",
+        "path": ""
+      }
+    ]
   }
 ]

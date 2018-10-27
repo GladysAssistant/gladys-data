@@ -99,5 +99,23 @@
         "path": "/user"
       }
     ]
+  },
+  {
+    "uuid": "1abd0720-6e41-49c5-81bd-4831af2448a6",
+    "name": "Time range",
+    "description": "If it is a given hour in the main house.",
+    "service": "time",
+    "function": "isInTimeRange",
+    "params": [{
+        "name": "Start",
+        "variablename": "start",
+        "path": ""
+      },
+      {
+        "name": "End",
+        "variablename": "end",
+        "path": ""
+      }
+    ]
   }
 ]
