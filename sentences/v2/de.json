@@ -1,0 +1,342 @@
+[
+    {
+        "service": "calendar",
+        "label": "get-next-event",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "f1209f6f-86e4-4091-9d98-d30600257db6",
+                "text": "Was ist mein nächster Termin heute?"
+            },
+            {
+                "uuid": "74069a74-54b1-4b07-b168-85d32f671ce1",
+                "text": "Was steht als nächstes in meinem Kalender?"
+            }
+        ]
+    },
+    {
+        "service": "weather",
+        "label": "get-weather",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "c0102603-19ad-4277-9319-07b170e331df",
+                "text": "Wie ist das Wetter?"
+            },
+            {
+                "uuid": "8511dd23-96b6-46d9-ba02-4c2f1e24286e",
+                "text": "Wie ist das Wetter  heute?"
+            },
+            {
+                "uuid": "ca96a33d-823b-4c9c-9410-a1b2144a666a",
+                "text": "Was soll ich heute anziehen?"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "play",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "9344cd17-7b41-4b01-a430-64faf2cceb3d",
+                "text": "Musik abspielen"
+            },
+            {
+                "uuid": "1a892e0a-aa42-48cf-b229-a5e14385a30b",
+                "text": "Schmeiß die Musik an"
+            },
+            {
+                "uuid": "6e19b4be-0162-4fff-86c3-821170a620fe",
+                "text": "Ich möchte etwas Musik hören"
+            },
+            {
+                "uuid": "8b58f0b7-bc61-4300-930b-16a929cbdaaf",
+                "text": "Musik einschalten"
+            },
+            {
+                "uuid": "2ba15857-9d5c-4903-8377-a8573d52a7a8",
+                "text": "Ich will Musik hören"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "pause",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "fa5d2684-35f7-4160-81b8-718ff6f9c3d3",
+                "text": "Musik pausieren"
+            },
+            {
+                "uuid": "491bb39e-114d-46a8-8d17-adacbf28b81f",
+                "text": "Pausiere die Musik"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "stop",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "4c1b2ab9-d04e-4658-85ec-a85e1efdd596",
+                "text": "Musik stoppen"
+            },
+            {
+                "uuid": "e5ab80ab-29d4-4f45-bc2f-16b66a635a12",
+                "text": "Schalte die Musik aus"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "volume-up",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "7f92420c-9716-40ef-9f6e-f8b0c65f74f3",
+                "text": "Dreh die Lautstärke hoch"
+            },
+            {
+                "uuid": "7fdeae91-8108-407e-ab8d-718f49a6c263",
+                "text": "Dreh die Musik auf"
+            },
+            {
+                "uuid": "8c2a527b-127f-4bb8-9263-c8f327b3dfb4",
+                "text": "Lautstärke hoch"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "volume-down",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "e4eecda1-bf3f-469e-827d-9a1467da31f0",
+                "text": "Dreh die Lautstärke runter"
+            },
+            {
+                "uuid": "c60e24a1-80c3-4fb7-ad46-0568bdedb737",
+                "text": "Dreh die Musik runter"
+            },
+            {
+                "uuid": "6203cb06-3ff7-41b2-8ced-5894325a9543",
+                "text": "Lautstärke runter"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "next",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "0f5fff2e-68e9-4a73-afdf-532f26e40776",
+                "text": "Nächster Titel"
+            },
+            {
+                "uuid": "d6403dbe-4250-41c0-b1db-e8bb0480ad2d",
+                "text": "Änder den Titel"
+            },
+            {
+                "uuid": "897220d8-109a-4a05-9d9c-619c572b3622",
+                "text": "Nächstes Lied"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "previous",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "499312dc-1ca0-4beb-8d84-fe234682a44b",
+                "text": "Vorheriger Titel"
+            },
+            {
+                "uuid": "7bc4fa2d-fc47-42bb-8177-08b788de4e1a",
+                "text": "Das letzte Lied war super!"
+            },
+            {
+                "uuid": "aa62d770-88a2-4e58-a1dd-06fe207ac265",
+                "text": "Mach das letzte Lied wieder an"
+            }
+        ]
+    },
+    {
+        "service": "music",
+        "label": "get-current-track",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "4205ddbf-4d08-4e92-94cc-6a9478576407",
+                "text": "Wie heißt dieses Lied?"
+            },
+            {
+                "uuid": "71f60e0f-e855-43b6-a249-20f11cb05b38",
+                "text": "Was ist das für ein Lied?"
+            },
+            {
+                "uuid": "79ddc34a-3668-4537-b8dd-4ccbaa1ded85",
+                "text": "Aktueller Titel"
+            }
+        ]
+    },
+    {
+        "service": "deviceType",
+        "label": "set-device-on",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "198b7972-098a-4223-8948-5b66be885936",
+                "text": "Licht im %ROOM% einschalten"
+            },
+            {
+                "uuid": "b8d24bfc-c367-4f72-ad73-e853ee30d4c8",
+                "text": "Schalte %DEVICE_TYPE% an"
+            }
+        ]
+    },
+    {
+        "service": "deviceType",
+        "label": "set-device-off",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "43c2ad24-e476-400b-b57f-d88227ca40ef",
+                "text": "Licht im %ROOM% ausschalten"
+            },
+            {
+                "uuid": "de0df337-889a-495b-b3e2-2bb7f64f2165",
+                "text": "Schalte %DEVICE_TYPE% aus"
+            }
+        ]
+    },
+    {
+        "service": "event",
+        "label": "back-at-home",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "6bb66ede-fbf8-4cfb-b5c5-42b56950b379",
+                "text": "Ich bin wieder zuhause!"
+            },
+            {
+                "uuid": "81b2cb95-2437-4163-9417-e153c55dbe56",
+                "text": "Ich bin zurück!"
+            }
+        ]
+    },
+    {
+        "service": "event",
+        "label": "left-home",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "d2345fff-aecf-49d2-ac22-5f8108b283e2",
+                "text": "Ich verlasse das Zuhause"
+            },
+            {
+                "uuid": "a349d3c3-5a68-4944-bd89-c698d654f351",
+                "text": "Ich gehe"
+            }
+        ]
+    },
+    {
+        "service": "event",
+        "label": "wake-up",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "4ffd14ba-e375-480b-a89a-fbf095af2f3e",
+                "text": "Ich wache auf"
+            },
+            {
+                "uuid": "02d6759c-cf3c-45f3-add6-43573860308f",
+                "text": "Ich bin wach"
+            }
+        ]
+    },
+    {
+        "service": "event",
+        "label": "going-to-sleep",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "5b670b73-9c63-40bd-be80-2350f76217a5",
+                "text": "Ich gehe schlafen"
+            },
+            {
+                "uuid": "8805b839-38b3-4d48-87b7-81d74d204f45",
+                "text": "Gute Nacht!"
+            }
+        ]
+    },
+    {
+        "service": "brain",
+        "label": "thank-you",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "05e80645-13d9-4e78-9d07-6931c64212e6",
+                "text": "Danke"
+            },
+            {
+                "uuid": "9d082f72-c6c8-4f94-89a1-cab82cc35fa8",
+                "text": "Vielen DanK!"
+            }
+        ]
+    },
+    {
+        "service": "brain",
+        "label": "greeting",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "9d082f72-c6c8-4f94-89a1-cab82cc35fa8",
+                "text": "Hi !"
+            },
+            {
+                "uuid": "5bb85882-42c3-4729-a796-a6fd955b2622",
+                "text": "Hallo !"
+            },
+            {
+                "uuid": "1d8ecc12-0e04-431f-ab55-be8453c1203c",
+                "text": "Hey !"
+            }
+        ]
+    },
+    {
+        "service": "brain",
+        "label": "whats-up",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "51ded8fa-8d21-43fd-aa26-191b54c25aa2",
+                "text": "Was geht ab?"
+            },
+            {
+                "uuid": "2c5d34dd-5d2e-4c0a-9188-bdfb7f0f4271",
+                "text": "Wie geht es dir?"
+            }
+        ]
+    },
+    {
+        "service": "alarm",
+        "label": "create-alarm",
+        "language": "en",
+        "sentences": [
+            {
+                "uuid": "d0e48d1e-b07b-4b0b-a0e8-9a8ec0719288",
+                "text": "Wecke mich um %TIME% Uhr"
+            },
+            {
+                "uuid": "481a140a-3491-4b20-be96-d7edcc38aaed",
+                "text": "Stell den Alarm auf %TIME% Uhr"
+            }
+        ]
+    }
+]
